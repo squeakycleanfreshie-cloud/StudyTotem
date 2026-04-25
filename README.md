@@ -8,3 +8,5 @@ I created StudyTotem because I wanted a motivation to study, that reminds my and
 
 **What is my Story?**
 I am a school student in Sydney, Australia, and I like to study, but I always find myself getting distracted doing other stuff instead of studying. 
+
+<img width="1410" height="2000" alt="image" src="https://github.com/user-attachments/assets/c4eb852e-a3b5-43a6-9b75-009ee18500b7" />
