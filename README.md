@@ -1,7 +1,13 @@
 # StudyTotem
 
 **What is StudyTotem?**
-Study Totem: - study totem is a desk pet that pushes you to study -when it is flipped, it starts a timer and tracks your study time. - this colour mode is blue -when it is right way up, it acts as a light that can be turned off by tapping
+Study totem is a desk pet that pushes you to study!
+
+**What does it Do?**
+It tracks study time depending on what mode it is in. For example, when it is upside down, it is in study mode, tracking time studied. More modes are to be added soon.
+
+**How Do You Use It?**
+Keep it on your desk, to remind you that you have to study. If you haven't studied in a long time, the light will turn red and not turn off.
 
 **Why did I create StudyTotem?**
 I created StudyTotem because I wanted a motivation to study, that reminds my and sits on my desk 24/7. I also wanted it to have some function, like be a light - and track study time. 
