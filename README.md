@@ -15,6 +15,16 @@ I created StudyTotem because I wanted a motivation to study, that reminds my and
 **What is my Story?**
 I am a school student in Sydney, Australia, and I like to study, but I always find myself getting distracted doing other stuff instead of studying. 
 
+**How Do You Make/Assemble it?**
+1. 3D print the hollow body, with the lid a seperate print
+2. Assemble the circut as shown below
+3. Insert the circut into the slot, making sure that the LED light is in place
+4. Upload the code to the brain
+5. put the touch sensor into the lid slot so that it works
+6. plug in, power up and study!
+   
+
+
 CAD Link: https://cad.onshape.com/documents/5a2aa3f939be2259787ceef5/w/7d66d7d7878306864f0ef0c2/e/54538e2efd8de422bfcb9016?renderMode=0&uiState=69ed5927ea55306e92c378cb
 
 
