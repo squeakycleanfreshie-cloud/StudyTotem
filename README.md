@@ -29,11 +29,13 @@ CAD Link: https://cad.onshape.com/documents/5a2aa3f939be2259787ceef5/w/7d66d7d78
 
 <img width="461" height="377" alt="Screenshot 2026-05-09 at 7 21 54 am" src="https://github.com/user-attachments/assets/aca9d9ff-790e-445a-8da6-d6186ccf3a12" />
 
+<img width="452" height="466" alt="Screenshot 2026-05-08 at 5 40 14 pm" src="https://github.com/user-attachments/assets/f5f3c0af-f6f9-43ba-b0af-92c5bb4f4f65" />
+
 <img width="514" height="463" alt="Screenshot 2026-05-08 at 5 38 47 pm" src="https://github.com/user-attachments/assets/fd809c0c-8bec-41ca-aac5-4b4780ee1dc8" />
 
 <img width="541" height="529" alt="Screenshot 2026-05-08 at 5 10 11 pm" src="https://github.com/user-attachments/assets/d21a7eb1-a222-4fa4-a379-bed12494acc0" />
 
 <img width="1410" height="2000" alt="image" src="https://github.com/user-attachments/assets/c4eb852e-a3b5-43a6-9b75-009ee18500b7" />
 
-<img width="452" height="466" alt="Screenshot 2026-05-08 at 5 40 14 pm" src="https://github.com/user-attachments/assets/f5f3c0af-f6f9-43ba-b0af-92c5bb4f4f65" />
+
 
