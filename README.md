@@ -27,6 +27,8 @@ I am a school student in Sydney, Australia, and I like to study, but I always fi
 
 CAD Link: https://cad.onshape.com/documents/5a2aa3f939be2259787ceef5/w/7d66d7d7878306864f0ef0c2/e/54538e2efd8de422bfcb9016?renderMode=0&uiState=69ed5927ea55306e92c378cb
 
+<img width="461" height="377" alt="Screenshot 2026-05-09 at 7 21 54 am" src="https://github.com/user-attachments/assets/aca9d9ff-790e-445a-8da6-d6186ccf3a12" />
+
 <img width="514" height="463" alt="Screenshot 2026-05-08 at 5 38 47 pm" src="https://github.com/user-attachments/assets/fd809c0c-8bec-41ca-aac5-4b4780ee1dc8" />
 
 <img width="541" height="529" alt="Screenshot 2026-05-08 at 5 10 11 pm" src="https://github.com/user-attachments/assets/d21a7eb1-a222-4fa4-a379-bed12494acc0" />
