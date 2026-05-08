@@ -31,6 +31,7 @@ CAD Link: https://cad.onshape.com/documents/5a2aa3f939be2259787ceef5/w/7d66d7d78
 
 <img width="541" height="529" alt="Screenshot 2026-05-08 at 5 10 11 pm" src="https://github.com/user-attachments/assets/d21a7eb1-a222-4fa4-a379-bed12494acc0" />
 
-<img width="1408" height="866" alt="image" src="https://github.com/user-attachments/assets/124b5998-bf68-41b9-b26a-549706148a45" />
-
 <img width="1410" height="2000" alt="image" src="https://github.com/user-attachments/assets/c4eb852e-a3b5-43a6-9b75-009ee18500b7" />
+
+<img width="452" height="466" alt="Screenshot 2026-05-08 at 5 40 14 pm" src="https://github.com/user-attachments/assets/f5f3c0af-f6f9-43ba-b0af-92c5bb4f4f65" />
+
