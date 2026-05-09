@@ -13,7 +13,9 @@ Keep it on your desk, to remind you that you have to study. If you haven't studi
 I created StudyTotem because I wanted a motivation to study, that reminds my and sits on my desk 24/7. I also wanted it to have some function, like be a light - and track study time. 
 
 **What is my Story?**
-I am a school student in Sydney, Australia, and I like to study, but I always find myself getting distracted doing other stuff instead of studying. 
+I am a school student in Sydney, Australia, and I like to study, but I always find myself getting distracted doing other stuff instead of studying.
+
+TimeColourEffect0–5 minCool blueSteady — warming up5–25 minGreenBreathing — in the zone25–50 minPurpleBreathing slower — deep work50+ minGoldSlow pulse — achievement mode
 
 **How Do You Make/Assemble it?**
 1. 3D print the hollow body, with the lid a seperate print
