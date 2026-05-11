@@ -15,6 +15,9 @@ I created StudyTotem because I wanted a motivation to study, that reminds my and
 **What is my Story?**
 I am a school student in Sydney, Australia, and I like to study, but I always find myself getting distracted doing other stuff instead of studying.
 
+**Important Info**
+The lid is an exact fit, and even though it looks like it isn't fitting the the cad model, it has been measure exactly, with 1mm gaps.
+
 💙 0–5 min Cool blue — warming up
 💚 5–25 min Green — in the zone
 💜 25–50 min Purple — deep work
