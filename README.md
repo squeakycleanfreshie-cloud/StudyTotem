@@ -24,10 +24,11 @@ I am a school student in Sydney, Australia, and I like to study, but I always fi
 1. 3D print the hollow body, with the lid a seperate print
 2. Assemble the circut as shown below
 3. Make sure that the touch sensor is connected to the the 2-Pin Connector, and stored at the top, off of the PCB
-4. Insert the circut into the slot, making sure that the LED light is in place
-5. Upload the code to the brain
-6. put the touch sensor into the lid slot so that it works
-7. plug in, power up and study!
+4. Slide in the PCB into the holder
+5. Insert the circut into the slot, making sure that the LED light is in place
+6. Upload the code to the brain
+7. put the touch sensor into the lid slot so that it works
+8. plug in, power up and study!
    
 
 
