@@ -18,6 +18,8 @@ I am a school student in Sydney, Australia, and I like to study, but I always fi
 **Important Info**
 The lid is an exact fit, and even though it looks like it isn't fitting the the cad model, it has been measure exactly, with 1mm gaps.
 
+Update: After my project got rejected, I added a hole for the sensor to go in, and I holder for the PCB. I made the lid more exact and attatched everything.
+
 💙 0–5 min Cool blue — warming up
 💚 5–25 min Green — in the zone
 💜 25–50 min Purple — deep work
